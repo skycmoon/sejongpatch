@@ -1,0 +1,18 @@
+### IntelliJ ###
+.idea/
+
+### PyDev ###
+.project
+
+.pydevproject
+
+### python ###
+venv/
+env/
+__pycache__
+.cache/
+.pytest_cache/
+*.egg-info/
+
+### OS ###
+.DS_Store
